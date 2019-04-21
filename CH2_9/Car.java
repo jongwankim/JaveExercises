@@ -1,5 +1,3 @@
-import com.sun.scenario.effect.Effect;
-
 /* 
  * Implement a class Car that models a car traveling along the x-axis,
  * consuming gas as it moves. Provide methods to drive by a given number of
